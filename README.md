@@ -17,7 +17,7 @@ Portofolio ini dibangun menggunakan standar web dasar (HTML, CSS, dan JavaScript
 | **Nama** | Qahar Qadrian |
 | **NIM** | 23690101053 |
 | **Umur** | 20 Tahun |
-| **Alamat** |Taccipi |
+| **Alamat** |Taccipi kec ulaweng |
 | **Pendidikan** | Mahasiswa Teknologi Pendidikan, Universitas Muhammadiyah Bone |
 
 ## 🛠️ Keahlian yang Ditampilkan
