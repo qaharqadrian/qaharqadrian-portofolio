@@ -15,7 +15,6 @@ Portofolio ini dibangun menggunakan standar web dasar (HTML, CSS, dan JavaScript
 | Informasi | Detail |
 | :--- | :--- |
 | **Nama** | Qahar Qadrian |
-| **NIM** | 23690101053 |
 | **Umur** | 20 Tahun |
 | **Pendidikan** | Mahasiswa Teknologi Pendidikan, Universitas Muhammadiyah Bone |
 
