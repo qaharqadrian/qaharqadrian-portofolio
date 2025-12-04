@@ -16,6 +16,7 @@ Portofolio ini dibangun menggunakan standar web dasar (HTML, CSS, dan JavaScript
 | :--- | :--- |
 | **Nama** | Qahar Qadrian |
 | **Umur** | 20 Tahun |
+| **Alamat** |Taccipi kec ulaweng |
 | **Pendidikan** | Mahasiswa Teknologi Pendidikan, Universitas Muhammadiyah Bone |
 
 ## 🛠️ Keahlian yang Ditampilkan
